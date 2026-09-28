@@ -1,0 +1,9 @@
+{
+  "name": "SGT San Andrés",
+  "short_name": "SGT San Andrés",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070912",
+  "theme_color": "#080b14",
+  "icons": []
+}
